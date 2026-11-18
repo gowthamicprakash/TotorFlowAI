@@ -1,5 +1,6 @@
 # TutorFlow AI
 
+<<<<<<< HEAD
 **An AI-powered business management assistant for teachers and educational academies.**
 
 TutorFlow AI is an intelligent assistant designed to help teachers and academy owners manage their teaching businesses through natural voice interactions and an intuitive dashboard.
@@ -157,4 +158,9 @@ To empower teachers and academy owners with an intelligent AI companion that mak
 
 TutorFlow AI is currently in its initial development stage. Features and architecture will evolve incrementally based on MVP requirements and testing.
 
+---
+
+## 🛠 Project Structure
+- `backend/`: Spring Boot (Java 21, Spring Data JPA, Spring Security, PostgreSQL)
+- `frontend/`: React frontend (planned)
 
